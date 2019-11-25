@@ -10,7 +10,7 @@ const IndexPage = () => (
     <SEO title="Home" />
     <h1>Hi people</h1>
     <p>Welcome to your new Gatsby site.</p>
-    <img src={logo} alt="Logo" />
+    <img src={logo} alt="Logo"/>
   </Layout>
 )
 
